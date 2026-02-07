@@ -36,7 +36,7 @@ pip install requests pandas openpyxl
 Run the script using:
 
 ```
-python extract.py
+python api_extract.py
 ```
 
 ## 📄 Output
